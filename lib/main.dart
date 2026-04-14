@@ -6,20 +6,20 @@ import 'router.dart';
 void main() {
   runApp(
     const ProviderScope(
-      child: MobilityApp(),
+      child: RafeeqApp(),
     ),
   );
 }
 
-class MobilityApp extends StatelessWidget {
-  const MobilityApp({super.key});
+class RafeeqApp extends StatelessWidget {
+  const RafeeqApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp.router(
-      title: 'MoveHebron',
+      title: 'Rafeeq',
       debugShowCheckedModeBanner: false,
-      theme: AppTheme.dark,
+      theme: AppTheme.light,
       routerConfig: appRouter,
     );
   }

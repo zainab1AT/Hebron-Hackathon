@@ -30,7 +30,7 @@ class NotificationsScreen extends ConsumerWidget {
                 child: Text(
                   '$unread',
                   style: const TextStyle(
-                      color: Colors.black,
+                      color: AppColors.textOnPrimary,
                       fontSize: 12,
                       fontWeight: FontWeight.w700),
                 ),

@@ -45,7 +45,7 @@ class AppMapState extends ConsumerState<AppMap> {
       mapToolbarEnabled: false,
       compassEnabled: false,
       buildingsEnabled: true,
-      style: AppConstants.darkMapStyle,
+      style: AppConstants.mapStyle,
       onMapCreated: (controller) {
         _controller = controller;
       },

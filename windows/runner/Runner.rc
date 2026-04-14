@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.hebron.mobility" "\0"
-            VALUE "FileDescription", "mobility_mvp" "\0"
+            VALUE "FileDescription", "Rafeeq" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "mobility_mvp" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.hebron.mobility. All rights reserved." "\0"
             VALUE "OriginalFilename", "mobility_mvp.exe" "\0"
-            VALUE "ProductName", "mobility_mvp" "\0"
+            VALUE "ProductName", "Rafeeq" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
